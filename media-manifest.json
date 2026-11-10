@@ -1,0 +1,16 @@
+{
+  "project": "Agent Reliability Lab",
+  "reviewed": "2026-11-10",
+  "assets": [
+    {
+      "path": "media/overview.png",
+      "bytes": 165427,
+      "sha256": "d731461dd0323c99406942ec770fd038d400f35225122bd8f3fc8836c69819ee"
+    },
+    {
+      "path": "media/walkthrough.webm",
+      "bytes": 4869567,
+      "sha256": "62735599b10114a123367766ee1dfa57bee100db9b79d54e71693c454f39d656"
+    }
+  ]
+}
